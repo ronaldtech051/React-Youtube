@@ -1,0 +1,22 @@
+{
+  "name": "react-youtube-example-ssr",
+  "version": "1.0.0",
+  "description": "react-youtube example ssr starter project",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "12.3.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-youtube": "1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.7.16",
+    "@types/react": "18.0.18",
+    "@types/react-dom": "18.0.6",
+    "typescript": "4.8.3"
+  }
+}
